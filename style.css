@@ -132,4 +132,9 @@ h1{
     .container{
         display: block;
     }
+    .projimg{
+        height: 300px;
+        width: 300px;
+    }
+        
 }
